@@ -29,6 +29,7 @@ def main():
     client = influxdb_client.InfluxDBClient(url=URL, token=token, org=ORG)
     write_api = client.write_api(write_options=SYNCHRONOUS)
 
+    print("Logging Compressor Readings to InfluxDB")
 
     try:
         while True:
