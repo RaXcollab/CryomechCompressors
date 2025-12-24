@@ -1,3 +1,7 @@
+# OBSOLETE
+
+This repo has been archived, superseded by [RaXcollab/LabMonitoring](https://github.com/RaXcollab/LabMonitoring).
+
 # Cryomech Communicate
 
 This is a simple python client to communicate with Cryomech corporation cyrogenetic
